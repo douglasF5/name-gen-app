@@ -31,16 +31,14 @@ class FavoriteNameCard extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Icon(Icons.favorite, color: theme.colorScheme.secondary),
-                Tooltip(
-                  message: 'Remove name',
-                  child: IconButton(
-                      onPressed: () => action(wordPair),
-                      icon: Icon(
-                        Icons.remove_circle_outline,
-                        color: Colors.deepOrange,
-                        semanticLabel: 'Remove from favorites',
-                      )),
-                ),
+                IconButton(
+                    tooltip: 'Remove name',
+                    onPressed: () => action(wordPair),
+                    icon: Icon(
+                      Icons.remove_circle_outline,
+                      color: Colors.deepOrange,
+                      semanticLabel: 'Remove from favorites',
+                    )),
               ],
             ),
             SizedBox.square(
