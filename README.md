@@ -1,16 +1,24 @@
-# name_gen_app
+# NameGen
 
-A new Flutter project.
+## About
 
-## Getting Started
+Desktop app to kick off my Flutter studies and learn about basic widgets and other essential constructs.
 
-This project is a starting point for a Flutter application.
+- Basic responsive layout
+- Conditional rendering
+- Basic state management
+- Material Design styles and widgets
 
-A few resources to get you started if this is your first Flutter project:
+### What it does
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+It's pretty simple: the app lets you generate new words by combining pairs of English words in a pseudo-random fashion. You can also add or remove words from a favorites list.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+<img src="./.github/project-screenshot.png">
+
+<br/>
+
+## Extra notes
+
+- This project is purely a practical exercise intended for developing and/or showcasing my skills in the tools/techniques/concepts mentioned above. It's not meant to be a complete production-ready solution. If you have any questions or simply want to chat about it, feel free to reach out!
