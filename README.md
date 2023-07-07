@@ -22,4 +22,4 @@ It's pretty simple: the app lets you generate new words by combining pairs of En
 ## Extra notes
 
 - This project is purely a practical exercise intended for developing and/or showcasing my skills in the tools/techniques/concepts mentioned above. It's not meant to be a complete production-ready solution. Feel free to reach out if you have any questions or simply want to chat about it!
-- This exercise was built following the lessons by [Nick Manning on YouTube](https://www.youtube.com/playlist?list=PL__UlMMmv_ryxZun7zAdI8KWufcYLXA-_). It may or may not have been adapted/redesigned by me.
+- This exercise was built following [this lesson on Flutter's official YouTube channel](https://www.youtube.com/watch?v=8sAyPDLorek). It may or may not have been adapted/redesigned by me.
