@@ -21,4 +21,5 @@ It's pretty simple: the app lets you generate new words by combining pairs of En
 
 ## Extra notes
 
-- This project is purely a practical exercise intended for developing and/or showcasing my skills in the tools/techniques/concepts mentioned above. It's not meant to be a complete production-ready solution. If you have any questions or simply want to chat about it, feel free to reach out!
+- This project is purely a practical exercise intended for developing and/or showcasing my skills in the tools/techniques/concepts mentioned above. It's not meant to be a complete production-ready solution. Feel free to reach out if you have any questions or simply want to chat about it!
+- This exercise was built following the lessons by [Nick Manning on YouTube](https://www.youtube.com/playlist?list=PL__UlMMmv_ryxZun7zAdI8KWufcYLXA-_). It may or may not have been adapted/redesigned by me.
